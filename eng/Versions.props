@@ -82,7 +82,7 @@
     <MicrosoftAspNetCoreMetadataPackageVersion>9.0.0</MicrosoftAspNetCoreMetadataPackageVersion>
     <MicrosoftJSInteropPackageVersion>9.0.0</MicrosoftJSInteropPackageVersion>
     <!-- Everything else (previous edition) -->
-    <MicrosoftAspNetCorePackageVersion>8.0.10</MicrosoftAspNetCorePackageVersion>
+    <MicrosoftAspNetCorePackageVersion>9.0.0</MicrosoftAspNetCorePackageVersion>
     <MicrosoftAspNetCoreAuthorizationPreviousPackageVersion>$(MicrosoftAspNetCorePackageVersion)</MicrosoftAspNetCoreAuthorizationPreviousPackageVersion>
     <MicrosoftAspNetCoreAuthenticationFacebookPreviousPackageVersion>$(MicrosoftAspNetCorePackageVersion)</MicrosoftAspNetCoreAuthenticationFacebookPreviousPackageVersion>
     <MicrosoftAspNetCoreAuthenticationGooglePreviousPackageVersion>$(MicrosoftAspNetCorePackageVersion)</MicrosoftAspNetCoreAuthenticationGooglePreviousPackageVersion>
@@ -144,7 +144,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <MicrosoftNETTestSdkPackageVersion>17.6.0</MicrosoftNETTestSdkPackageVersion>
-    <XunitPackageVersion>2.9.0</XunitPackageVersion>
+    <XunitPackageVersion>2.9.2</XunitPackageVersion>
     <XunitRunnerVisualStudioPackageVersion>2.8.2</XunitRunnerVisualStudioPackageVersion>
     <XunitExtensibilityExecutionPackageVersion>2.9.0</XunitExtensibilityExecutionPackageVersion>
     <XunitAssertPackageVersion>2.9.0</XunitAssertPackageVersion>
